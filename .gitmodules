@@ -1,0 +1,3 @@
+[submodule "Machine_Modelling"]
+	path = Machine_Modelling
+	url = https://github.com/Nfayem/Machine_Modelling.git
