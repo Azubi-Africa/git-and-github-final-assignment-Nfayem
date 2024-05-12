@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  Machine_Modelling             |  Binary and Multi-class classification models trained to predict customer gender and product category.             | [Link to Repo](https://github.com/Nfayem/Machine_Modelling.git)      |
+| 1 |  Machine_Modelling             |  The project trains binary and multi-class classification models to predict customer gender and product category, respectively.             | [Link to Repo](https://github.com/Nfayem/Machine_Modelling.git)      |
 | 2 |  CRISP-DM_Titanic             |  The project uses the CRISP-DM module to analyse what sorts of people were likely to survive on the Titanic and to build a regression model to predict ticket price on board the Titanic.             | [Link to Repo](https://github.com/Nfayem/CRISP-DM_Titanic.git)       |
 | 3 |  Sakila_DB             |  The project performs exploratory data analysis on the Sakila database in MySQL.             | [Link to Repo](https://github.com/Nfayem/Sakila_DB.git)       |
 
